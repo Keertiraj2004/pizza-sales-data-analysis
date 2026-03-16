@@ -192,9 +192,10 @@ Open your browser and go to `http://127.0.0.1:8050/`
 
 ## 👨‍💻 Author
 
-**Keertiraj Kamble**
-Artificial Intelligence & Data Science Student
-
+**Keertiraj Kamble** 
+B.E. Artificial Intelligence & Data Science  
+AI/ML Enthusiast | RAG | Generative AI | Data Science
+LinkedIn: https://linkedin.com/in/keertiraj-kamble
 [![GitHub](https://img.shields.io/badge/GitHub-Keertiraj2004-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Keertiraj2004)
 
 ---
