@@ -195,7 +195,6 @@ Open your browser and go to `http://127.0.0.1:8050/`
 **Keertiraj Kamble** 
 B.E. Artificial Intelligence & Data Science  
 AI/ML Enthusiast | RAG | Generative AI | Data Science   
-
 LinkedIn: https://linkedin.com/in/keertiraj-kamble
 
 ---
