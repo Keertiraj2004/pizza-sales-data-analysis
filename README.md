@@ -53,9 +53,6 @@ Interactive Dashboard (Dash + Plotly)
 Business Insights
 ```
 
-> To add a workflow diagram, place your image in the `images/` folder and replace the above block with:
-> `![Workflow](images/workflow.png)`
-
 ---
 
 ## 📊 Dashboard Preview
@@ -68,8 +65,6 @@ Business Insights
 | `images/top_sellers.png` | Top Selling Pizzas — Best performers |
 | `images/bottom_sellers.png` | Bottom Selling Pizzas — Underperformers |
 
-> Once you add screenshots to the `images/` folder, replace each row above with:
-> `![Description](images/filename.png)`
 
 ---
 
