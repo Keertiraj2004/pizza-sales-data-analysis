@@ -198,5 +198,3 @@ AI/ML Enthusiast | RAG | Generative AI | Data Science
 LinkedIn: https://linkedin.com/in/keertiraj-kamble
 
 ---
-
-⭐ If you found this project helpful, please consider giving it a star!
