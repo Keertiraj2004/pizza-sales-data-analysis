@@ -1,150 +1,158 @@
-🍕 Pizza Sales Data Analysis & Interactive Dashboard
+# 🍕 Pizza Sales Data Analysis & Interactive Dashboard
 
-📌 Project Overview
+## 📌 Project Overview
 
-This project performs end-to-end data analysis on pizza sales data to uncover meaningful business insights. The analysis combines Exploratory Data Analysis (EDA) with an interactive dashboard built using Dash and Plotly to visualize sales trends, customer ordering behavior, and product performance.
+This project performs **end-to-end data analysis on pizza sales data** to uncover meaningful business insights. The analysis combines **Exploratory Data Analysis (EDA)** with an **interactive dashboard built using Dash and Plotly** to visualize sales trends, customer ordering behavior, and product performance.
 
-The goal of this project is to demonstrate how data analytics and visualization can transform raw business data into actionable insights for decision-making.
+The goal of this project is to demonstrate how **data analytics and visualization can transform raw business data into actionable insights for decision-making**.
 
-Project Type: End-to-End Data Analytics Project
-Domain: Business / Sales Analytics
-Tools: Python, Pandas, Plotly, Dash
+**Project Type:** End-to-End Data Analytics Project  
+**Domain:** Business / Sales Analytics  
+**Tools:** Python, Pandas, Plotly, Dash
 
-🎯 Project Objectives
+---
 
-Analyze overall pizza sales performance
+## 🎯 Project Objectives
 
-Identify top-selling and least-selling pizzas
+- Analyze overall **pizza sales performance**
+- Identify **top-selling and least-selling pizzas**
+- Evaluate **daily and monthly order trends**
+- Understand **sales distribution by pizza category and size**
+- Build an **interactive dashboard for dynamic data exploration**
 
-Evaluate daily and monthly order trends
+---
 
-Understand sales distribution by pizza category and size
+## 🔄 Project Workflow
 
-Build an interactive dashboard for dynamic data exploration
 
-🔄 Project Workflow
 Raw Sales Data
-      ↓
+↓
 Data Cleaning & Preprocessing
-      ↓
+↓
 Exploratory Data Analysis (EDA)
-      ↓
+↓
 KPI Calculations
-      ↓
+↓
 Data Visualization
-      ↓
+↓
 Interactive Dashboard (Dash + Plotly)
-      ↓
+↓
 Business Insights
 
 
-images/workflow.png
+### Workflow Diagram
 
-📊 Dashboard Preview
-Full Dashboard
+![Workflow](images/workflow.png)
 
-KPI Metrics
+---
 
-Sales Trends
+## 📊 Dashboard Preview
 
-Top Selling Pizzas
+### Full Dashboard
+![Dashboard](images/dashboard.png)
 
-Bottom Selling Pizzas
+### KPI Metrics
+![KPI Cards](images/kpi_cards.png)
 
-📈 Key Performance Indicators (KPIs)
+### Sales Trends
+![Sales Trends](images/sales_trends.png)
+
+### Top Selling Pizzas
+![Top Sellers](images/top_sellers.png)
+
+### Bottom Selling Pizzas
+![Bottom Sellers](images/bottom_sellers.png)
+
+---
+
+## 📈 Key Performance Indicators (KPIs)
 
 The dashboard displays important business metrics including:
 
-Total Revenue
+- **Total Revenue**
+- **Total Orders**
+- **Total Pizzas Sold**
+- **Average Order Value**
+- **Average Pizzas per Order**
 
-Total Orders
+These KPIs provide a quick overview of **overall sales performance**.
 
-Total Pizzas Sold
+---
 
-Average Order Value
+## 📉 Data Analysis & Visualizations
 
-Average Pizzas per Order
+### Sales Trends
+- Daily order trends
+- Monthly order trends
 
-These KPIs provide a quick overview of overall sales performance.
+### Revenue Distribution
+- Sales by pizza category
+- Sales by pizza size
 
-📉 Data Analysis & Visualizations
-Sales Trends
+### Product Performance
+- Top 5 pizzas by revenue
+- Top 5 pizzas by quantity sold
+- Top 5 pizzas by number of orders
 
-Daily order trends
+### Underperforming Products
+- Bottom 5 pizzas by revenue
+- Bottom 5 pizzas by quantity
+- Bottom 5 pizzas by orders
 
-Monthly order trends
+---
 
-Revenue Distribution
+## 🛠️ Technologies Used
 
-Sales by pizza category
+### Programming Language
+- Python
 
-Sales by pizza size
+### Data Analysis Libraries
+- Pandas
+- NumPy
 
-Product Performance
+### Data Visualization
+- Matplotlib
+- Seaborn
+- Plotly
 
-Top 5 pizzas by revenue
+### Dashboard Framework
+- Dash
 
-Top 5 pizzas by quantity sold
+### Development Environment
+- Jupyter Notebook
+- Python Virtual Environment
 
-Top 5 pizzas by number of orders
+---
 
-Underperforming Products
+## 📂 Project Structure
 
-Bottom 5 pizzas by revenue
 
-Bottom 5 pizzas by quantity
-
-Bottom 5 pizzas by orders
-
-🛠️ Technologies Used
-Programming Language
-
-Python
-
-Data Analysis Libraries
-
-Pandas
-
-NumPy
-
-Data Visualization
-
-Matplotlib
-
-Seaborn
-
-Plotly
-
-Dashboard Framework
-
-Dash
-
-Development Environment
-
-Jupyter Notebook
-
-Python Virtual Environment
-
-📂 Project Structure
 pizza-sales-data-analysis
 │
 ├── data
-│   └── pizza_sales.csv
+│ └── pizza_sales.csv
 │
 ├── images
-│   ├── dashboard.png
-│   ├── kpi_cards.png
-│   ├── sales_trends.png
-│   ├── top_sellers.png
-│   ├── bottom_sellers.png
-│   └── workflow.png
+│ ├── dashboard.png
+│ ├── kpi_cards.png
+│ ├── sales_trends.png
+│ ├── top_sellers.png
+│ ├── bottom_sellers.png
+│ └── workflow.png
 │
 ├── dashboard.py
 ├── pizza_sales_analysis.ipynb
 ├── requirements.txt
 └── README.md
-⚙️ Installation & Setup
-1️⃣ Clone the Repository
+
+
+---
+
+## ⚙️ Installation & Setup
+
+### 1️⃣ Clone the Repository
+
+```bash
 git clone https://github.com/Keertiraj2004/pizza-sales-data-analysis.git
 2️⃣ Navigate to the Project Folder
 cd pizza-sales-data-analysis
@@ -182,5 +190,5 @@ Add real-time analytics
 Keertiraj Kamble
 Artificial Intelligence & Data Science Student
 
-GitHub
+🔗 GitHub
 https://github.com/Keertiraj2004
