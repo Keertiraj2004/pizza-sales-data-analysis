@@ -42,7 +42,7 @@ Business Insights
 
 ### Workflow Diagram
 
-![Workflow](images/workflow.png)
+![Workflow](images/workflow_diagram.png)
 
 ---
 
