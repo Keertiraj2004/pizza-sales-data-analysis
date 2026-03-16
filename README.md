@@ -24,22 +24,6 @@ The goal of this project is to demonstrate how **data analytics and visualizatio
 
 ## 🔄 Project Workflow
 
-
-Raw Sales Data
-↓
-Data Cleaning & Preprocessing
-↓
-Exploratory Data Analysis (EDA)
-↓
-KPI Calculations
-↓
-Data Visualization
-↓
-Interactive Dashboard (Dash + Plotly)
-↓
-Business Insights
-
-
 ### Workflow Diagram
 
 ![Workflow](images/workflow_diagram.png)
