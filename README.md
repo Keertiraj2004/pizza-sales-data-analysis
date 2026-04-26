@@ -6,7 +6,7 @@
 ![Dash](https://img.shields.io/badge/Dash-2.0%2B-008DE4?style=for-the-badge&logo=plotly&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-> End-to-End Data Analytics Project | Business / Sales Analytics Domain
+> End-to-End Data Analytics Project | Business / Sales Analytics Domains
 > Transforming raw pizza sales data into actionable business insights through EDA and interactive dashboards.
 
 ---
