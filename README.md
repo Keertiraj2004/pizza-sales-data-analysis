@@ -7,7 +7,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 > End-to-End Data Analytics Project | Business / Sales Analytics Domains
-> Transforming raw pizza sales data into actionable business insights through EDA and interactive dashboards.
+> Transforming raw pizza sales data into actionable business insights through EDA and interactive dashboards. 
 
 ---
 
