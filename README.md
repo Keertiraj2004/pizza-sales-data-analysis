@@ -24,7 +24,7 @@ This project performs **end-to-end data analysis** on pizza sales data to uncove
 
 ---
 
-## 🎯 Project Objectives
+ ## 🎯 Project Objectives
 
 - Analyze overall pizza sales performance
 - Identify top-selling and least-selling pizzas
