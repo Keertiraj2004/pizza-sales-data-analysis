@@ -11,7 +11,7 @@
 
 ---
 
-## 📌 Project Overview
+ ##📌 Project Overview
 
 This project performs **end-to-end data analysis** on pizza sales data to uncover meaningful business insights. The analysis combines **Exploratory Data Analysis (EDA)** with an **interactive dashboard** built using Dash and Plotly to visualize sales trends, customer ordering behavior, and product performance.
 
