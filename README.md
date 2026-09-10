@@ -20,7 +20,8 @@ This project performs **end-to-end data analysis** on pizza sales data to uncove
 | **Project Type** | End-to-End Data Analytics |
 | **Domain** | Business / Sales Analytics |
 | **Tools** | Python, Pandas, Plotly, Dash |
-| **Environment** | Jupyter Notebook, Python Virtual Environment |
+| **Environment*s
+* | Jupyter Notebook, Python Virtual Environment |
 
 ---
 
