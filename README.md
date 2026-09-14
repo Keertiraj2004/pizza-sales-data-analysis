@@ -55,7 +55,7 @@ Business Insights
 
 ---
 
-## 📊 Dashboard Preview
+## 📊 Dashboard Preview 
 
 | Screenshot | Description |
 | --- | --- |
