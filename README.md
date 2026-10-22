@@ -23,7 +23,7 @@ This project performs **end-to-end data analysis** on pizza sales data to uncove
 | **Environment*s
 * | Jupyter Notebook, Python Virtual Environment |
 
----
+---       
 
  ## 🎯 Project Objectives        
 
